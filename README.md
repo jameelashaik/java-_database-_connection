@@ -9,3 +9,5 @@ Requirements: Aquadata,postgresql,myeclipse10
 
 Before doing this using aquadata register server,create databse and connect server.(record database name,portnumber and password.)
 
+database connection code can be written in myeclipse (load postgresql jar file)
+
